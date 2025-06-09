@@ -1,0 +1,12 @@
+GICS_sector,S&P500,S&P400,S&P600,total_counts
+Financials,72,69,115,256
+Industrials,78,76,93,247
+Consumer Discretionary,50,63,84,197
+Information Technology,69,43,62,174
+Health Care,62,37,73,172
+Real Estate,31,28,54,113
+Materials,28,27,29,84
+Consumer Staples,38,17,26,81
+Energy,22,19,31,72
+Utilities,31,15,13,59
+Communication Services,22,7,22,51

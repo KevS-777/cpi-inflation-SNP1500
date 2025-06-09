@@ -1,0 +1,26 @@
+,ticker,total_volume,GICS_sector,GICS_sub_industry,vwap,transactions,trading_days,average_daily_volume
+970,NVDA,213848960190.0,Information Technology,Semiconductors,69.9119644,1035608.992,500,427697920.38
+1341,TSLA,58662609606.0,Consumer Discretionary,Automobile Manufacturers,217.5141702,1274684.786,500,117325219.212
+1074,PLTR,29364660750.0,Information Technology,Internet Services & Infrastructure,21.8460718,226462.596,500,58729321.5
+5,AAPL,28861622818.0,Information Technology,"Technology Hardware, Storage & Peripherals",187.4349632,628109.658,500,57723245.636
+73,AMD,28695939879.0,Information Technology,Semiconductors,129.41331359999998,456802.682,500,57391879.758
+505,F,27829368467.0,Consumer Discretionary,Automobile Manufacturers,12.0117314,128226.644,500,55658736.934
+1229,SMCI,26814697917.0,Information Technology,"Technology Hardware, Storage & Peripherals",41.7909566,160664.826,500,53629395.834
+705,INTC,25207821653.0,Information Technology,Semiconductors,32.585361,247072.352,500,50415643.306
+88,AMZN,25000547893.0,Consumer Discretionary,Broadline Retail,150.2625352,470128.79,500,50001095.786
+844,MARA,23616606000.0,Information Technology,IT Consulting & Other Services,15.0188992,205396.23,500,47233212.0
+155,BAC,21260915556.0,Financials,Diversified Banks,34.4219344,167742.374,500,42521831.112
+1285,T,18188665191.0,Communication Services,Integrated Telecommunication Services,17.8419912,112456.024,500,36377330.382
+1052,PFE,16126760322.0,Health Care,Pharmaceuticals,32.856541,151327.18,500,32253520.644
+250,CCL,16073558408.0,Consumer Discretionary,"Hotels, Resorts & Cruise Lines",15.330834000000001,106027.342,500,32147116.816
+2,AAL,15192686148.0,Industrials,Passenger Airlines,13.7635674,87710.222,500,30385372.296
+603,GOOGL,14764783173.0,Communication Services,Interactive Media & Services,139.2880962,347657.892,500,29529566.346
+134,AVGO,13711755225.0,Information Technology,Semiconductors,111.9207526,128400.922,500,27423510.45
+1437,WBD,12523106768.0,Communication Services,Broadcasting,10.605617,84005.538,500,25046213.536
+906,MSFT,11869531504.0,Information Technology,Systems Software,363.4052708,387538.47,500,23739063.008
+602,GOOG,11142496438.0,Communication Services,Interactive Media & Services,140.4236486,247843.836,500,22284992.876
+1358,UBER,10830038017.0,Industrials,Passenger Ground Transportation,55.650808,155828.792,500,21660076.034
+829,LUMN,10659315227.0,Communication Services,Alternative Carriers,2.9146358,46036.278,500,21318630.454
+784,KVUE,8270572230.0,Consumer Staples,Personal Care Products,21.51970491400491,72020.59705159705,407,20320816.28992629
+1430,VZ,9958595246.0,Communication Services,Integrated Telecommunication Services,38.733203800000005,111425.582,500,19917190.492
+866,META,9737039679.0,Communication Services,Interactive Media & Services,376.253346,276918.5,500,19474079.358
